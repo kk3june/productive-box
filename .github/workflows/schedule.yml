@@ -1,4 +1,4 @@
-name: Update gist
+name: kk3june
 on:
   push:
     branches:
